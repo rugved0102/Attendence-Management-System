@@ -13,7 +13,6 @@ Display Statistics: View total students, total attendance, and average attendanc
 
 # Getting Started
 Clone the Repository: git clone[ https://github.com/Pratik3c/AttenDex](https://github.com/rugved0102/Attendence-Management-System.git)
-Compile and Run: gcc main.c -o attendance_system ; ./attendance_system
 
 # Usage
 Select '1' to log in as an admin or '2' to log in as a student.
