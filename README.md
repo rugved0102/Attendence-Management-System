@@ -18,3 +18,7 @@ Clone the Repository: git clone[ https://github.com/Pratik3c/AttenDex](https://g
 Select '1' to log in as an admin or '2' to log in as a student.
 Admin username and password are both 'admin'.
 Follow the on-screen instructions to perform various operations.
+
+# Flowchart
+![image](https://github.com/rugved0102/Attendence-Management-System/assets/122914094/5498f56a-4fe3-4e9f-b298-548661a065b7)
+
