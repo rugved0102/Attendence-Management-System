@@ -20,5 +20,6 @@ Admin username and password are both 'admin'.
 Follow the on-screen instructions to perform various operations.
 
 # Flowchart
-![image](https://github.com/rugved0102/Attendence-Management-System/assets/122914094/5498f56a-4fe3-4e9f-b298-548661a065b7)
+![image](https://github.com/user-attachments/assets/db2e5d32-69ec-4701-9055-550886c837bf)
+
 
